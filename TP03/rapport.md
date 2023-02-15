@@ -9,9 +9,9 @@ On a pu acceder au fichier access.log ou dedans on a pu voir les differentes req
 
 RESULTATS
 
-De cette analyse, on a reperer les adresses 176.191.103.12, 140.238.48.138 et 138.66.89.12. Avec la derniere adresse on a pu voir q'il a cacher un dossier zip qui doit s'executer chaque jour et lui remonter les informations retrouves, Ce qui le permettra surement d'avoir les donnees sohaitees.
-![image](https://user-images.githubusercontent.com/125276953/219060817-46aad95e-71dd-4153-b6ae-92e3ec43a51c.png)
+De cette analyse, on a reperer les adresses 176.191.103.12, 140.238.48.138 et 138.66.89.12. Avec la derniere adresse on a pu voir q'il a cacher un dossier zip qui doit s'executer chaque jour et lui remonter les informations retrouves, Ce qui le permettra surement d'avoir les donnees souhaitees.
 
+![image](https://user-images.githubusercontent.com/125276953/219060817-46aad95e-71dd-4153-b6ae-92e3ec43a51c.png)
 
 CONCLUSION
 
