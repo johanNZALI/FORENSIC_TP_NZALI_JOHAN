@@ -15,7 +15,7 @@ De cette analyse, on a reperer les adresses 176.191.103.12, 140.238.48.138 et 13
 
 CONCLUSION
 
-Il s'agissait de faire une analyse des logs pour voir et verifier les outils infiltres et quel est l'adresse IP de l'attaquant
+Il s'agissait de faire une analyse des logs pour voir et verifier les outils infiltres et quel est l'adresse IP de l'attaquant ce qui nous permettra de savoir comment securiser et ou securitser en priorite.
 
 RECOMMANDATION
 
