@@ -27,4 +27,4 @@ Faire une analyse des logs tous jours pour voir si il y'a une ou des failles
 Avoir des systemes de changement des mots de passe por plus de securite.
 
 CONCLUSION GENERAL
-Pour coclure de dirais que pour avoir une bonne securite il faut mettre en pratique les recommendation de l'ANSSI sur la protection des serveurs et aussi sur l'ensemble de notre systeme.
+Pour conclure je dirais que pour avoir une bonne securite il faut mettre en pratique les recommendation de l'ANSSI sur la protection des serveurs et aussi sur l'ensemble de notre systeme.
